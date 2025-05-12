@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JoshRos/data-vis-final/static/css/main.b8fc3ce8.css",
+    "main.js": "/JoshRos/data-vis-final/static/js/main.21673597.js",
+    "static/media/data.csv": "/JoshRos/data-vis-final/static/media/data.85ffc326cdcf1f2a6626.csv",
+    "index.html": "/JoshRos/data-vis-final/index.html",
+    "main.b8fc3ce8.css.map": "/JoshRos/data-vis-final/static/css/main.b8fc3ce8.css.map",
+    "main.21673597.js.map": "/JoshRos/data-vis-final/static/js/main.21673597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8fc3ce8.css",
+    "static/js/main.21673597.js"
+  ]
+}
